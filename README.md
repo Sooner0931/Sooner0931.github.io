@@ -1,2 +1,2 @@
 # Sooner0931.github.io
-This is my personal .io
+The Way Towards Data Science
